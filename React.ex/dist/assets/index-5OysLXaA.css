@@ -1,0 +1,1 @@
+.photos-container{display:flex;flex-wrap:wrap;justify-content:center}.photo{cursor:pointer;margin:5px}.photo img{max-width:80px;max-height:80px}.enlarged{position:fixed;top:65%;left:50%;transform:translate(-50%,-50%);display:flex;align-items:center;justify-content:center;z-index:1000}.enlarged img{max-width:100%;max-height:100%}
